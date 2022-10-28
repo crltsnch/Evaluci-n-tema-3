@@ -12,5 +12,7 @@ poli2=sympy.Poly(p2)
 
 def res(p1, p2):
     return p1-p2
+def div(p1, p2):
+    return p1/p2
 
 
